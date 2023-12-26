@@ -23,8 +23,16 @@ body {
     font-weight: bold;
     color: #f9d8dd;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+.para_text {
+    font-family: 'Nunito';
+    font-size: 40px;
+    font-weight: bold;
+    color: #f9d8dd;
+    text-align: center;
+    margin-top: 6px;
 }
 
 .buttons {
